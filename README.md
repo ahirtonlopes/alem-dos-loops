@@ -4,6 +4,10 @@ Material da palestra de **Ahirton Lopes, PhD** no **IA Conference Brasil 2026** 
 
 Todo mundo sabe escrever um loop de agente. O que separa um protótipo de um produto é o que fica em volta do loop: contexto, verificação, limites e o time. A palestra parte de um case **fictício e composto**, a Amplitude Seguros, com agentes regulando sinistros de automóvel num setor regulado, e passa por sete erros que custariam caro em produção, com números medidos e casos públicos.
 
+## Método
+
+O case é desenhado com o **AI Architecture Decision Canvas**, do AI Architecture Toolkit de Ahirton Lopes, inspirado no [Machine Learning Canvas](https://www.louisdorard.com/machine-learning-canvas) de Louis Dorard. São 11 caixas, de processo e dados até métricas de sucesso. Cada caixa vira perguntas em linguagem de negócio para o dono do processo, que também assina o que fica fora de escopo. Na palestra, cada erro é apresentado como uma caixa do canvas que ficou em branco.
+
 ## Conteúdo
 
 | Arquivo | O que é |
